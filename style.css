@@ -1,14 +1,13 @@
 :root{
-    --color-primary: #ff7b02;
+    --color-primary: #ffd902;
     /*-----------GREEN THEAM-------------*/
-    --color-primary-variant: #e5a55d;
+    --color-primary-variant: #5dbee5;
     --color-bg-1:#0c0017;
     --color-bg-2:#13002d;
-    --color-bg-3:#1e0143;
-    --color-bg-4:#2f0253;
-    --color-light:#9885b2;
+    --color-bg-3:#27024d;
+    --color-bg-4:#022158;
+    --color-light:#ffd902;
     --color-white:hsl(0,0%,90%);
-
 
 
 
